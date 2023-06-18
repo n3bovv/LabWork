@@ -221,3 +221,5 @@ public class MiniSQL {
         return maxValue;
     }
 }
+
+//by n3bovv/Ilya Alyoshin
